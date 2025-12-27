@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 明确告诉爬虫你的站点地图
+Sitemap: https://realestate.opai.online/sitemap.xml
